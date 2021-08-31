@@ -1,0 +1,26 @@
+Corrida Selva
+Todos os anos, na província de Misiones, no norte da Argentina, acontece um evento conhecido como “Carrera de la Selva”.
+É uma competição onde os melhores maratonistas e corredores da América Latina se encontram para desafiar suas habilidades esportivas.
+
+A competição tem 3 categorias dependendo de sua dificuldade:
+● Pequeno circuito: 2 km por selva e riachos.
+● Circuito médio: 5 km por selva, riachos e lama.
+● Circuito Avançado: 10 km por selva, riachos, lama e escalada em rocha.
+
+Cada participante só pode se inscrever em uma categoria e precisa, para tal inscrição, fornecer as seguintes informações:
+RG, nome, sobrenome, idade, telefone celular, número de emergência e grupo sanguíneo.
+A cada participante inscrito, ao mesmo tempo, é atribuído um número de participante consecutivo em relação à inscrição anterior;
+Por exemplo, se um participante se registrar e o anterior era o número 36, ele receberá o número 37.
+
+Para finalizar a inscrição deverá ser apurado o valor a ser pago por cada participante.
+Para isso, são levados em consideração os seguintes valores:
+● Registro de pequeno circuito: menores de 18 anos $ 1300. Acima de 18 anos $ 1.500.
+● Registro de circuito médio: menores de 18 anos $ 2.000. Acima de 18 anos $ 2.300.
+● Inscrição no Circuito Avançado: A inscrição não é permitida para menores de 18 anos. Mais de 18 anos $ 2.800.
+
+Com base nos dados fornecidos, os organizadores da corrida afirmaram que precisam de um aplicativo que seja capaz de:
+A. Registre um novo participante em uma categoria. (Leve em consideração que cada categoria possui uma lista de entradas diferente).
+B. Exibe na tela todos os cadastrados em uma determinada categoria com seus respectivos dados e número de inscrição.
+C. Cancele a inscrição de um participante de uma categoria.
+D. Determine o valor que cada participante deve pagar no momento da inscrição.
+Por exemplo: se o participante se inscrever na categoria Pequeno Circuito e tiver 21 anos, o valor a ser pago é de $ 1.500.
